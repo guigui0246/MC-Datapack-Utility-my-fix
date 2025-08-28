@@ -1,5 +1,4 @@
 import { Uri, FileSystemError, workspace, FileType } from 'vscode'
-import { promises as fsp } from 'fs'
 import { UriUtils } from './uri'
 import { TextDecoder, TextEncoder } from 'util'
 
