@@ -12,7 +12,7 @@ if ($?) {
     Write-Host "VSIX package creation failed."
     exit 1
 }
-code --install-extension .\mc-datapack-utility-2.1.10.vsix --force
+code --install-extension .\mc-datapack-utility-2.3.0.vsix --force
 if ($?) {
     Write-Host "Extension installed successfully."
 } else {

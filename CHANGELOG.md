@@ -1,3 +1,5 @@
+# [v2.3.0](https://github.com/guigui0246/MC-Datapack-Utility-my-fix/compare/v2.1.9...v2.3.0) (2026-06-27)
+
 # [v2.1.10](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v2.1.9...v2.1.10) (2023-03-13)
 
 # [v2.1.9](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v2.1.8...v2.1.9) (2023-01-03)
@@ -27,9 +29,9 @@
 # [v2.1.3](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v2.1.2...v2.1.3) (2022-03-07)
 
 ## 🐛 Bug Fixes
-- [`7cf2626`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/7cf2626)  ファイルタイプが不足しているのを修正、それに伴い設定を追加 
-- [`261a9c8`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/261a9c8)  Fix paddingLength in serialNumberReplacer not work 
-- [`a219160`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/a219160)  multiLinegenerator/tagsReplacerで一部のタグしか利用できないのを修正 
+- [`7cf2626`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/7cf2626)  ファイルタイプが不足しているのを修正、それに伴い設定を追加
+- [`261a9c8`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/261a9c8)  Fix paddingLength in serialNumberReplacer not work
+- [`a219160`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/a219160)  multiLinegenerator/tagsReplacerで一部のタグしか利用できないのを修正
 
 ## 🚑 Critical Hotfixes
 - [`a503169`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/a503169)  各種機能が動作しなくなっているのを修正
@@ -49,7 +51,7 @@
 # [v2.0.5](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v2.0.4...v2.0.5) (2021-09-17)
 
 ## 🐛 Bug Fixes
-- [`05feb6f`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/05feb6f)  Revert &quot;🩹 fix locale involved core system&quot; 
+- [`05feb6f`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/05feb6f)  Revert &quot;🩹 fix locale involved core system&quot;
 - [`8eaffa9`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/8eaffa9)  fix build
 
 # [v2.0.4](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v2.0.3...v2.0.4) (2021-09-01)
@@ -72,13 +74,13 @@
 # [v2.0.0](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v1.5.0...v2.0.0) (2021-04-30)
 
 ## ✨ New Features
-- [`4741a9e`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/4741a9e)  induce createDatapackTemplate when try createFile in empty location 
-- [`b124b50`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/b124b50)  Add CustomQuestion config 
-- [`d7322a8`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/d7322a8)  add command generateMultiLine 
+- [`4741a9e`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/4741a9e)  induce createDatapackTemplate when try createFile in empty location
+- [`b124b50`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/b124b50)  Add CustomQuestion config
+- [`d7322a8`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/d7322a8)  add command generateMultiLine
 
 ## 🐛 Bug Fixes
-- [`bcba6b4`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/bcba6b4)  Fix missing function folder template 
-- [`30c637d`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/30c637d)  Fix not generate data folder when not template selecting 
+- [`bcba6b4`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/bcba6b4)  Fix missing function folder template
+- [`30c637d`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/30c637d)  Fix not generate data folder when not template selecting
 
 ## 💥 Breaking Changes
 - [`f97f937`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/f97f937)  Some config names have been put together in an environment group.
@@ -107,21 +109,21 @@
 # [v1.4.0](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v1.3.0...v1.4.0) (2020-11-26)
 
 ## ✨ New Features
-- [`3ab0ebe`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/3ab0ebe)  add elem if already generate to file 
+- [`3ab0ebe`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/3ab0ebe)  add elem if already generate to file
 - [`eb61661`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/eb61661)  NBTPath-like syntax can be used with key
 
 # [v1.3.0](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v1.2.0...v1.3.0) (2020-11-22)
 
 ## ✨ New Features
 - [`f712369`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/f712369)  値の拡大率を設定できるように (#19) (Issues: [`#19`](https://github.com/ChenCMD/MC-Datapack-Utility/issues/19))
-- [`ad5010e`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/ad5010e)  Fix not support other than latest ver 
+- [`ad5010e`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/ad5010e)  Fix not support other than latest ver
 - [`2166e08`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/2166e08)  関数を追加できるように (#20) (Issues: [`#20`](https://github.com/ChenCMD/MC-Datapack-Utility/issues/20))
 - [`83bf685`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/83bf685)  Allows to add template with createFile (Issues: [`#14`](https://github.com/ChenCMD/MC-Datapack-Utility/issues/14))
 
 ## 🐛 Bug Fixes
-- [`6499c50`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/6499c50)  Fix not support vanilla tag other then block 
-- [`1633784`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/1633784)  Fix not renamed relativePath to rel 
-- [`45c5ac1`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/45c5ac1)  Fix do not work progressbar 
+- [`6499c50`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/6499c50)  Fix not support vanilla tag other then block
+- [`1633784`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/1633784)  Fix not renamed relativePath to rel
+- [`45c5ac1`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/45c5ac1)  Fix do not work progressbar
 - [`4adc475`](https://github.com/ChenCMD/MC-Datapack-Utility/commit/4adc475)  Fix undefined relativePath locale key
 
 # [v1.2.0](https://github.com/ChenCMD/MC-Datapack-Utility/compare/v1.1.0...v1.2.0) (2020-11-09)
